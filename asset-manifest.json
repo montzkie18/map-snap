@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.b3534681.chunk.css",
-  "main.js": "/static/js/main.f925accc.chunk.js",
-  "main.js.map": "/static/js/main.f925accc.chunk.js.map",
-  "static/css/1.64caa18f.chunk.css": "/static/css/1.64caa18f.chunk.css",
-  "static/js/1.3902ca1a.chunk.js": "/static/js/1.3902ca1a.chunk.js",
-  "static/js/1.3902ca1a.chunk.js.map": "/static/js/1.3902ca1a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/1.64caa18f.chunk.css.map": "/static/css/1.64caa18f.chunk.css.map",
-  "static/css/main.b3534681.chunk.css.map": "/static/css/main.b3534681.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.dd2deb3833de5cd4d490805eb5f43a06.js": "/precache-manifest.dd2deb3833de5cd4d490805eb5f43a06.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "https://montzkie18.github.io/map-snap/static/css/main.b3534681.chunk.css",
+  "main.js": "https://montzkie18.github.io/map-snap/static/js/main.10cd71ce.chunk.js",
+  "main.js.map": "https://montzkie18.github.io/map-snap/static/js/main.10cd71ce.chunk.js.map",
+  "static/css/1.64caa18f.chunk.css": "https://montzkie18.github.io/map-snap/static/css/1.64caa18f.chunk.css",
+  "static/js/1.627dd208.chunk.js": "https://montzkie18.github.io/map-snap/static/js/1.627dd208.chunk.js",
+  "static/js/1.627dd208.chunk.js.map": "https://montzkie18.github.io/map-snap/static/js/1.627dd208.chunk.js.map",
+  "runtime~main.js": "https://montzkie18.github.io/map-snap/static/js/runtime~main.8d626087.js",
+  "runtime~main.js.map": "https://montzkie18.github.io/map-snap/static/js/runtime~main.8d626087.js.map",
+  "static/css/1.64caa18f.chunk.css.map": "https://montzkie18.github.io/map-snap/static/css/1.64caa18f.chunk.css.map",
+  "static/css/main.b3534681.chunk.css.map": "https://montzkie18.github.io/map-snap/static/css/main.b3534681.chunk.css.map",
+  "index.html": "https://montzkie18.github.io/map-snap/index.html",
+  "precache-manifest.5951cc64c49cf925651f5747cd36b659.js": "https://montzkie18.github.io/map-snap/precache-manifest.5951cc64c49cf925651f5747cd36b659.js",
+  "service-worker.js": "https://montzkie18.github.io/map-snap/service-worker.js"
 }
